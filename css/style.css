@@ -72,3 +72,6 @@ padding-right: 0px;
 border-bottom: 5px solid #fff;
 background-color: #fff;
 }
+#global-header .block { 
+padding-left: 0px;
+}
