@@ -32,3 +32,43 @@
 .post-area a:hover {
   color: #0D0017;
 }
+.navbar-default .navbar-nav>li>a { 
+color: #265786;
+    border-bottom: 7px transparent solid;
+    padding-bottom: 20px!important;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus { 
+color: #265786;
+    border-bottom: 7px #265786 solid;
+    padding-bottom: 20px!important;
+    background-color: transparent;
+}
+nav ul ul { 
+right: 0%;
+}
+nav ul ul li {
+    min-width: 220px;
+    display:list-item;
+    position: relative;
+padding: 10px;
+padding-right: 0px;
+border-bottom: 5px solid #fff;
+}
+nav ul ul li:hover { 
+border-bottom: 5px solid #265786;
+}
+
+nav ul ul ul {
+    right: 0%;
+    background: #fff;
+}
+nav ul ul ul li {
+    min-width: 220px;
+    display:list-item;
+    position: relative;
+padding: 10px;
+padding-right: 0px;
+border-bottom: 5px solid #fff;
+background-color: #fff;
+}
