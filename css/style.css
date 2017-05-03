@@ -75,3 +75,9 @@ background-color: #fff;
 #global-header .block { 
 padding-left: 0px;
 }
+#testimonial { 
+padding: 0px;
+}
+.container>.navbar-header { 
+margin-bottom: 10px;
+}
