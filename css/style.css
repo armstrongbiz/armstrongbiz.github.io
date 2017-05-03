@@ -46,6 +46,7 @@ color: #265786;
 }
 nav ul ul { 
 right: 0%;
+border-top: solid #265786 5px;
 }
 nav ul ul li {
     min-width: 220px;
