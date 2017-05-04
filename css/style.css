@@ -100,8 +100,8 @@ color: #265786!important;
     background-color: transparent!important;
 }
 #slider { 
-padding-top: 10px;
-padding-bottom: 10px;
+padding-top: 10px!important;
+padding-bottom: 10px!important;
 }
 #slider .block h1 {
     font-size: 20px;
