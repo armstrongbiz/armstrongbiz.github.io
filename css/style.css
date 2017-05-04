@@ -128,4 +128,9 @@ border-bottom: 5px solid transparent;
 #intro { 
 padding: 20px;
 }
+.navbar-default .navbar-toggle:hover {
+  background-color: #265786!important;
+}
+.navbar-default .navbar-toggle .icon-bar:hover { 
+color: #fff!important;}
 }
