@@ -85,3 +85,18 @@ margin-bottom: 10px;
 #slider .block p { 
 font-size: 18px;
 }
+@media only screen and (max-device-width: 480px) {
+.navbar-brand { 
+padding: 0px;
+}
+.navbar-brand>img {
+    display: block;
+    width: 200px;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus { 
+color: #265786;
+    border-bottom: 7px transparent solid;
+    padding-bottom: 20px!important;
+    background-color: transparent;
+}
+  }
