@@ -91,12 +91,12 @@ padding: 0px;
 }
 .navbar-brand>img {
     display: block;
-    width: 200px;
+    width: 200px!important;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus { 
-color: #265786;
-    border-bottom: 7px transparent solid;
+color: #265786!important;
+    border-bottom: 7px transparent solid!important;
     padding-bottom: 20px!important;
-    background-color: transparent;
+    background-color: transparent!important;
 }
   }
