@@ -90,8 +90,8 @@ font-size: 18px;
 }
 .navbar-default .navbar-toggle .icon-bar { 
 color: #fff!important;}
-.navbar-default .navbar-toggle .icon-bar { 
-background-color: #fff!important;
+.navbar-default .navbar-toggle .icon-bar: { 
+background-color: #999!important;
 }
 @media only screen and (max-width: 767px) {
 .navbar-brand { 
