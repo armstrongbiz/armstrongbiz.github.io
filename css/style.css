@@ -122,4 +122,10 @@ border-bottom: 5px solid transparent;
 nav ul ul ul li:hover { 
 border-bottom: 5px solid transparent;
 }
+.flex-direction-nav {
+    display: none;
+}
+#intro { 
+padding: 20px;
+}
 }
