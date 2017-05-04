@@ -89,8 +89,6 @@ font-size: 18px;
   background-color: #265786!important;
 }
 .navbar-default .navbar-toggle .icon-bar:hover { 
-color: #fff!important;}
-.navbar-default .navbar-toggle .icon-bar { 
 background-color: #fff!important;
 }
 @media only screen and (max-width: 767px) {
