@@ -88,9 +88,9 @@ font-size: 18px;
 .navbar-default .navbar-toggle:hover {
   background-color: #265786!important;
 }
-.navbar-default .navbar-toggle .icon-bar:hover { 
+.navbar-default .navbar-toggle .icon-bar { 
 color: #fff!important;}
-.navbar-default .navbar-toggle .icon-bar:hover { 
+.navbar-default .navbar-toggle .icon-bar { 
 background-color: #fff!important;
 }
 @media only screen and (max-width: 767px) {
