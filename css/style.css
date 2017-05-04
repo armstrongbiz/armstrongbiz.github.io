@@ -85,6 +85,12 @@ margin-bottom: 10px;
 #slider .block p { 
 font-size: 18px;
 }
+.navbar-default .navbar-toggle:hover {
+  background-color: #265786!important;
+}
+.navbar-default .navbar-toggle .icon-bar:hover { 
+color: #fff!important;}
+
 @media only screen and (max-width: 767px) {
 .navbar-brand { 
 padding: 0px;
@@ -128,9 +134,4 @@ border-bottom: 5px solid transparent;
 #intro { 
 padding: 20px;
 }
-.navbar-default .navbar-toggle:hover {
-  background-color: #265786!important;
-}
-.navbar-default .navbar-toggle .icon-bar:hover { 
-color: #fff!important;}
 }
